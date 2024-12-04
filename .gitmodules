@@ -1,0 +1,3 @@
+[submodule "external/HWE"]
+	path = external/HWE
+	url = https://github.com/canaltinigne/DeepHeightWeight.git
