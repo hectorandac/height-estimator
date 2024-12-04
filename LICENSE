@@ -1,16 +1,18 @@
-LICENSE
---------
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-Copyright (C) [Hector Acosta at AICU] [2024]
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
-To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+# LICENSE
 
 ---
 
-### Terms of the License:
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+Copyright (C) Hector Acosta at AICU 2024
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+---
+
+## Terms of the License
 
 1. **Attribution**:
    You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
@@ -26,9 +28,10 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 ---
 
-### Notices:
+## Notices
+
 This license does not apply to any third-party content included in this project that is licensed under different terms. Please review the licenses of any dependencies or incorporated works for their respective terms.
 
 ---
 
-For questions, contact [Your Email or Contact Information].
+For questions, contact <hector.acosta.pozo@gmail.com>.
